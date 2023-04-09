@@ -25,7 +25,7 @@ Also
 
 
 - [x] Do Homework
-- [x] Study
+- [] Study
 - [ ] More Studying
 
 ![Image of me](SalamPic.png)
